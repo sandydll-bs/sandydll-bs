@@ -41,5 +41,5 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sandydll-bs&theme=tokyonight&hide_border=true">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sandydll-bs&theme=dark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D"
 </p>
