@@ -4,7 +4,7 @@
   <img src="https://i.imgur.com/nYBb1io.png" width="180" style="border-radius:50%;">
 </p>
 
-<h3 align="center">SS Learner | Master of 8qtw.dll</h3>
+<h3 align="center">SS on AuraMC | Master of 8qtw.dll</h3>
 
 ---
 
